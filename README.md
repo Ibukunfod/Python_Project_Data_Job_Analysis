@@ -5,7 +5,7 @@
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to, depending on my target role. 
 
 View my notebook with detailed steps here:
-[2_Skills_Demand.ipynb](Project/2_Skills_Demand.ipynb)
+[2_Skills_Demand.ipynb](Project/notebooks/2_Skills_Demand.ipynb)
 
 ### Visualize Data
 
@@ -24,3 +24,7 @@ plt.show()
 ![Visualization of Top Skills for Data Professionals](Project/images/skill_demand_all_data_roles.png)
 
 ### Insights
+
+ - Python is a versatile skill, highly demanded across all three roles, but most prominently for Data Scientists (72%) and Data Engineers (65%).
+ - SQL is the most requested skill for Data Analysts and Data Scientists, with it in over half the job postings for both roles. For Data Engineers, Python is the most sought-after skill, appearing in 65% of job postings.
+ - Data Engineers require more specialized technical skills (AWS, Azure, Spark) compared to Data Analysts and Data Scientists who are expected to be proficient in more general data management and analysis tools (Excel, Tableau).
