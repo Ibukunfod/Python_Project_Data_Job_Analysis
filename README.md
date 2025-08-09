@@ -49,6 +49,7 @@ sns.lineplot(data=df_plot, dashes=False, palette='tab10')
  ### Results
 
 ![Trending Top Skills for Data ANalysts in the US](Project/images/skill_trend_DA.png)
+
 *Line chart visualizing the trending top skills for data analysts in the US in 2023.*
 
 ### Insights:
